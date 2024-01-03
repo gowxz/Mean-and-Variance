@@ -1,6 +1,5 @@
 #  Mean and variance of a discrete  distribution
 
-# Date:03.01.2005
 # Aim : 
 
 To find mean and variance of arrival of objects from the feeder using probability distribution
@@ -74,7 +73,7 @@ var=EX2-mean**2
 SD=np.sqrt(var)
 print("The Mean arrival rate is %.3f "%mean)
 print("The Variance of arrival from feeder is %.3f "%var) 
-print("The Standard deviation of arrival from feeder is %.3F "%SD)
+print("The Standard deviation of arrival from feeder is %.3f "%SD)
 ```
 
 
